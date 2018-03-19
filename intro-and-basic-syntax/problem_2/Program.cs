@@ -10,6 +10,7 @@ namespace Problem2
     {
         static void Main(string[] args)
         {
+            // Um... well named variables
             double wight = double.Parse(Console.ReadLine());
             double hight = double.Parse(Console.ReadLine());
 
