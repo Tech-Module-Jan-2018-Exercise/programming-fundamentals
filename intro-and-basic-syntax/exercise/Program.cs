@@ -1,4 +1,7 @@
-﻿using System;
+﻿
+//CONFIRMED from <ellcheto>
+
+using System;
 
 namespace _01_card
 {
