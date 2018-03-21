@@ -6,7 +6,7 @@ namespace _01_card
     {
         static void Main(string[] args)
         {   /* On the first 4 lines we read the integers from the console*/
-            int numOne = int.Parse(Console.ReadLine());
+            int numberOne = int.Parse(Console.ReadLine());
             int numTwo = int.Parse(Console.ReadLine());
             int numThree = int.Parse(Console.ReadLine());
             int numFour = int.Parse(Console.ReadLine());
