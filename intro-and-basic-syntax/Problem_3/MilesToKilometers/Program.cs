@@ -11,7 +11,8 @@ namespace MilesToKilometers
             double kilometersPerMile = 1.60934;
 
             //calculating the distance in km
-            var distanceInKilometers = distanceInMiles * kilometersPerMile;
+            //changed variable name
+            var distanceInKm= distanceInMiles * kilometersPerMile;
 
             Console.WriteLine("{0:F2}", distanceInKilometers);
         }
