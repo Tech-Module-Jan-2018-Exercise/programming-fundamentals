@@ -14,7 +14,7 @@ namespace MilesToKilometers
             //changed variable name
             var distanceInKm= distanceInMiles * kilometersPerMile;
 
-            Console.WriteLine("{0:F2}", distanceInKilometers);
+            Console.WriteLine("{0:F2}", distanceInKm);
         }
     }
 }
