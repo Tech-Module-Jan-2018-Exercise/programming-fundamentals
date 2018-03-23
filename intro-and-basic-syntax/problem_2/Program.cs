@@ -12,9 +12,9 @@ namespace Problem2
         {
             // Um... well named variables
             double wight = double.Parse(Console.ReadLine());
-            double hight = double.Parse(Console.ReadLine());
+            double height = double.Parse(Console.ReadLine());
 
-            double result = wight * hight;
+            double result = wight * height;
 
             Console.WriteLine("{0:f2}", result);
         }
