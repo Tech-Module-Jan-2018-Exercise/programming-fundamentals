@@ -15,7 +15,7 @@ namespace _01_card
             int numFour = int.Parse(Console.ReadLine());
 
             //As output we print the numbers in creditcard form with the help of the subscipts :D4 and:00.00  .
-            Console.WriteLine($"{numOne:D4} {numTwo:D4} {numThree:D4} {numFour:D4} {numOne:00.00}");
+            Console.WriteLine($"{numberOne:D4} {numTwo:D4} {numThree:D4} {numFour:D4} {numberOne:00.00}");
 
         }
     }
